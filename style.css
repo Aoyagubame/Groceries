@@ -12,7 +12,9 @@
 
 .title {
     background: black;
-    width: 310px;
+    width: 260px;
+    padding-left: 55px;
+
 }
 
 .al {
