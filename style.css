@@ -14,7 +14,6 @@
     background: black;
     width: 260px;
     padding-left: 55px;
-
 }
 
 .al {
@@ -24,8 +23,16 @@
 .bo {
     border: 3px solid blue;
     width: 300px;
+    margin: auto;
 }
 
 .Head {
     padding-left: 45px;
+}
+
+.bod {
+    border: 3px solid black;
+    width: 315px;
+    margin: auto;
+    padding-bottom: 15px;
 }
