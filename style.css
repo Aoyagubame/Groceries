@@ -1,0 +1,29 @@
+.Protein {
+    color: brown;
+}
+
+.Produce {
+    color: green;
+}
+
+.Odds {
+    color: orange;
+}
+
+.title {
+    background: black;
+    width: 310px;
+}
+
+.al {
+    text-align: center;
+}
+
+.bo {
+    border: 3px solid blue;
+    width: 300px;
+}
+
+.Head {
+    padding-left: 45px;
+}
